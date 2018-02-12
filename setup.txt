@@ -1,0 +1,8 @@
+Installing on CentOS
+
+sudo yum install -y python-devel
+sudo yum install -y python-pip
+sudo pip install broadlink
+
+git clone
+
